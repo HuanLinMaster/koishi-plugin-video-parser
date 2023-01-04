@@ -1,6 +1,6 @@
 # koishi-plugin-video-parser
 
-[![npm](https://img.shields.io/npm/v/koishi-plugin-video-decoder?style=flat-square)](https://www.npmjs.com/package/koishi-plugin-video-decoder)
+[![npm](https://img.shields.io/npm/v/koishi-plugin-video-decoder?style=flat-square)](https://www.npmjs.com/package/koishi-plugin-video-parser)
 
 视频链接解析~
 
