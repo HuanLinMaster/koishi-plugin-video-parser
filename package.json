@@ -1,7 +1,7 @@
 {
   "name": "koishi-plugin-video-parser",
   "description": "是一个视频链接解析喵~",
-  "version": "1.0.6",
+  "version": "1.0.5",
   "main": "lib/index.js",
   "typings": "lib/index.d.ts",
   "files": [
